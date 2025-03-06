@@ -26,17 +26,6 @@
       "toolCallType": "manual",
       "toolCallModel": "gemini-2.0-flash"
     },
-    
-    
-    {
-      "id": "<OLLAMA_MODEL_ID>",
-      "name": "<OLLAMA_MODEL_NAME>",
-      "provider": "Ollama",
-      "providerId": "ollama",
-      "enabled": false,
-      "toolCallType": "manual",
-      "toolCallModel": "<OLLAMA_MODEL_ID>"
-    },
     {
       "id": "grok-2-1212",
       "name": "Grok 2",
