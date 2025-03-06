@@ -5,7 +5,7 @@
       "name": "o3 mini",
       "provider": "OpenAI",
       "providerId": "openai",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     },
     {
@@ -13,7 +13,7 @@
       "name": "GPT-4o",
       "provider": "OpenAI",
       "providerId": "openai",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     },
     {
@@ -21,7 +21,7 @@
       "name": "GPT-4o mini",
       "provider": "OpenAI",
       "providerId": "openai",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Claude 3.7 Sonnet",
       "provider": "Anthropic",
       "providerId": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Claude 3.5 Sonnet",
       "provider": "Anthropic",
       "providerId": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Claude 3.5 Haiku",
       "provider": "Anthropic",
       "providerId": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     },
     {
@@ -53,7 +53,7 @@
       "name": "<AZURE_DEPLOYMENT_NAME>",
       "provider": "Azure",
       "providerId": "azure",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     },
     {
@@ -87,7 +87,7 @@
       "name": "DeepSeek R1",
       "provider": "Fireworks",
       "providerId": "fireworks",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "manual",
       "toolCallModel": "accounts/fireworks/models/llama-v3p1-8b-instruct"
     },
@@ -96,7 +96,7 @@
       "name": "DeepSeek R1",
       "provider": "DeepSeek",
       "providerId": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "manual",
       "toolCallModel": "deepseek-chat"
     },
@@ -105,7 +105,7 @@
       "name": "DeepSeek V3",
       "provider": "DeepSeek",
       "providerId": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "manual"
     },
     {
@@ -122,7 +122,7 @@
       "name": "DeepSeek R1",
       "provider": "Ollama",
       "providerId": "ollama",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "manual",
       "toolCallModel": "phi4"
     },
@@ -131,7 +131,7 @@
       "name": "<OLLAMA_MODEL_NAME>",
       "provider": "Ollama",
       "providerId": "ollama",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "manual",
       "toolCallModel": "<OLLAMA_MODEL_ID>"
     },
@@ -156,7 +156,7 @@
       "name": "<OPENAI_COMPATIBLE_MODEL>",
       "provider": "OpenAI Compatible",
       "providerId": "openai-compatible",
-      "enabled": true,
+      "enabled": false,
       "toolCallType": "native"
     }
   ]
